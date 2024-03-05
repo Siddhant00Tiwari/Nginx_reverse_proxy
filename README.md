@@ -82,4 +82,4 @@ After this we’ll enable nginx service using `sudo systemctl enable --now nginx
 
 While searching for  nginx IP, we’ll be greeted with our http website.
 
-![website.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/77ead240-a866-4aa1-883b-179fa59f3972/e25c70fe-0074-4c98-974c-047b4663d341/website.png)
+![website.png](https://raw.githubusercontent.com/Siddhant00Tiwari/Nginx_reverse_proxy/main/website.png)
