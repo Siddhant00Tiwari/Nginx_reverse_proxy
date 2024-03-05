@@ -7,7 +7,7 @@ We will perform this project in ***RHEL 9*** instances, where one instance will 
     
      
     
-    ![html_file.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/77ead240-a866-4aa1-883b-179fa59f3972/f25ee419-b6d4-4ddd-bef1-c81bf3e7a018/html_file.png)
+    ![html_file.png](https://raw.githubusercontent.com/Siddhant00Tiwari/Nginx_reverse_proxy/main/html_file.png)
     
 2. Then we’ll enable it using `sudo systemctl enable --now httpd`
 
