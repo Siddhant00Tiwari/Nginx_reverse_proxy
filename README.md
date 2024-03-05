@@ -64,7 +64,7 @@ We will remove the `/etc/nginx/conf.d/default.conf` file that is create by defua
 
  
 
-![nginx_configuration.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/77ead240-a866-4aa1-883b-179fa59f3972/f6b4f6d0-3e61-4ba5-8543-513cba4e2d91/nginx_configuration.png)
+![nginx_configuration.png](https://raw.githubusercontent.com/Siddhant00Tiwari/Nginx_reverse_proxy/main/nginx_configuration.png)
 
 - here we will write this simple configuration under server block.
 - first listen is for IPv4
